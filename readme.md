@@ -42,7 +42,7 @@ Au final, le répertoire doit contenir les dossiers suivant (hooks, platforms et
 ├─[+] src
 |  ├─[+] assets
 |  ├─[+] img
-|  ├──app.js
+|  ├──App.js
 |  └──style.css
 ├──config.xml
 ├──index.html
